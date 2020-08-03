@@ -1017,4 +1017,8 @@
     <string name="show_qs_on_secure_keyguard_title">Quick settings</string>
     <string name="show_qs_on_secure_keyguard_summary">Show quick settings on secure lockscreen</string>
 
+    <!-- Show VoWiFi icon on statusbar -->
+    <string name="vowifi_icon_title">VoWiFi Icon</string>
+    <string name="vowifi_icon_summary">Show VoWiFi icon</string>
+
 </resources>
